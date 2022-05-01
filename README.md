@@ -6,3 +6,6 @@ The purpose of this script is to extract JD Edwards EnterpriseOne (JDE) ship to 
 
 ## Example image (cropped and redacted)
 ![Imgur](https://imgur.com/ryFLd9X.jpg)
+
+## Example output (Excel)
+![Imgur](https://imgur.com/wLwfLKR.jpg)
